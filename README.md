@@ -1,4 +1,7 @@
 # Braille e-book reader
+
+Refer work *A. Kulkarni and K. Bhurchandi, "Low Cost E-Book Reading Device for Blind People," 2015 International Conference on Computing Communication Control and Automation, 2015, pp. 516-520, doi: 10.1109/ICCUBEA.2015.106.*
+
 Program, schematics and images<br />
 File description:<br />
 **braillecode.c** - Lookup table for mapping of aplhanumeric characters to respective braille characters<br />
